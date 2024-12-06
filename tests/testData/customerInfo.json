@@ -1,0 +1,24 @@
+{
+    "firstName" : "John",
+    "lastName" : "Smith",
+    "postCode" : "432987",
+    "currency" : "Dollar",
+    "addCustMsg" : "Customer added successfully with customer id :",
+    "accountOpenMsg" : "Account created successfully with account Number :",
+    "endPoint" : "public/v2/users",
+    "newUser": {
+        "name":"Sharma33",
+        "email":"sanju333@gmail.com",
+        "gender":"Male",
+        "status":"Active"
+    },
+    "userId": 7343348,
+    "userInfo": {
+        "id": 7343348,
+        "name": "Aishani Kaul",
+        "email": "kaul_aishani@schmeler.test",
+        "gender": "male",
+        "status": "inactive"
+    }
+    
+}
